@@ -2,6 +2,8 @@
 
 Dieses Projekt ist eine interaktive Anwendung, die speziell für die Vorbereitung auf die IHK-Abschlussprüfung Teil 1 (AP1) entwickelt wurde. Die Anwendung basiert auf den offiziellen IHK-Prüfungskärtchen und dient dazu, das Wissen zu verschiedenen Prüfungsthemen effektiv und strukturiert zu vertiefen.
 
+### Aufgrund von Urheberrechten steht der Fragenpool & Antwortpool nicht zur Verfügung (bzw. nur die Struktur ohne Inhalte c IHK) 
+
 ## Features
 - **Themenauswahl:** Wähle aus verschiedenen IHK-relevanten Themenfeldern wie "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben" oder "IT-Sicherheit und Datenschutz".
 - **Fragen und Antworten:** Die Anwendung zeigt Fragen nacheinander an, und die Antworten können durch einen Klick auf "Antwort anzeigen" sichtbar gemacht werden.
